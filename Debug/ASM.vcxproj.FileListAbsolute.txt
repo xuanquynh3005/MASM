@@ -1,2 +1,0 @@
-D:\ASM\Debug\ASM.exe
-D:\MASM\Debug\ASM.exe
